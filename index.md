@@ -1,9 +1,4 @@
-核心技术内容介绍： 基于保险行业经典场景智能业务而设计实现的Rasa 3.X智能业务对话机器人，以调试Debugging为主线剖析项目架构设计、配置内幕、源码实现、全生命周期调试、多场景测试以及Rasa Interactive Learning等。首先会聚焦Rasa对话机器人项目实战之保险行业Insurance Bot架构设计、流程分析、状态管理及基于Rasa Interactive的智能对话实验剖析，然后会对Insurance Bot微服务代码逐行解析及现场实验剖析，紧接着分享Insurance Bot的NLU及Policies数据内幕解密、源码解析及最佳实践，然后会对Insurance Bot调试Debugging全程实战及背后架构、源码及本质解密，最后通过Rasa Interactive learning解密项目中的各种具体应用场景内幕并完成项目总结。
-
-从功能上讲，该项目实现了保险行业经典场景智能业务中的Quote Enquiry、Claim Setting、Claim Status、Claim Payment、Account Management、Information Query等智能业务交互式对话。尤其是Debugging及Rasa Interactive Learning部分所使用的工具及透过这些工具所呈现出了项目内部的NLU、Dialogue Management及Action运行的内部流程及对各种现象的本质剖析，不仅能够帮助学员从项目动态运行的角度彻底掌握该项目，同时对提升学员对Rasa内核的理解力也会大有裨益。 该项目在Debugging及Interactive交互中展示了大量Rasa对话机器人内核高级架构和开发技术，学员可以在学习完本课程后对项目代码进行二次开发，实现自己的保险服务经典场景智能业务对话机器人任意复杂度的产品。更重要的是，该项目课程中展示的高阶对话机器人实战技术可以帮助学员在开发基于Rasa开发其它类型的对话机器人时成竹在胸。
-
 资料及技术答疑获取： 联系星空智能对话机器人创始人/AI双线思考法作者Gavin获得代码、资料及完整的课程视频（包含额外的根据学员学习反馈而补充的视频及助教录制的视频）。
-
 
 
 Gavin：星空智能对话机器人创始人| AI双线思考法作者
@@ -12,4 +7,3 @@ Gavin：星空智能对话机器人创始人| AI双线思考法作者
 
 Rasa课程 | Rasa培训 | Rasa面试
 
-原创文章，转载或其他用途请联系作者，否则将予以版权追究。
