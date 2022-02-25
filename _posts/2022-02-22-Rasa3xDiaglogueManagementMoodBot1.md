@@ -1,4 +1,4 @@
-Rasa课程、Rasa培训、Rasa面试系列之：   Rasa 3.x   对话管理 Moodbot （1）
+## Rasa课程、Rasa培训、Rasa面试系列之：   Rasa 3.x   对话管理 Moodbot （1）
 为了简单起见，我们将使用moodbot探索这些策略。它是您通过“Rasa init”启动新的Rasa项目时获得的助理。Moodbot有一个简单的功能：如果你心情不好，可以试着让你高兴起来。data/stories.yml包含了一些故事，这些故事被记忆策略记住，并被TED用作训练数据。
 
 它还有一些在“data/rules.yml”中定义的规则。
