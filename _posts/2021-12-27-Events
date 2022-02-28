@@ -1,0 +1,13 @@
+## 基于Transformer的Rasa 3.x 内核解密之Events剖析及源码详解(二十七)
+
+        本文继续围绕工业级业务对话平台和框架Rasa的Events及相关源码进行解析。
+
+一、Rasa Events及源码解析
+
+    Event接口分析
+
+Rasa中对话是用events序列来表示的，也就是说通过这个events序列可以了解对话过
+
+————————————————
+版权声明：本文为CSDN博主「m0_49380401」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/m0_49380401/article/details/122646092
