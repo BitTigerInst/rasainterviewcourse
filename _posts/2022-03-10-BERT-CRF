@@ -1,0 +1,1 @@
+## BERT-CRF通过Transformer的注意力机制不仅可以帮助获得更长Context信息，同时也可以使模型聚焦于更加更要饿信息。
